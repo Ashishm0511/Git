@@ -6,7 +6,7 @@ name: Run Python Script & Tests
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build:
